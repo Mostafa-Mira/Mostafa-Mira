@@ -17,11 +17,11 @@ Currently learning and improving my skills in **C#, SQL Server, and Web Developm
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I am a **Junior Full-Stack Developer** 🐱‍💻 from **Egypt 🇪🇬**.
+I am a **Junior Full-Stack Developer** 🧑‍💻 from **Egypt 🇪🇬**.
 
-* 👨‍💻 Currently learning and improving my **C# & .NET** skills.
+* 🔭 Currently learning and improving my **C# & .NET** skills.
 * 🌱 Learning **SQL Server and Web Development**.
 * 💻 Interested in building useful web applications.
 * ⚡ I enjoy solving problems and working on programming projects.
@@ -55,7 +55,7 @@ A local services platform designed to help users find local doctors and services
 
 **Technologies:** HTML • CSS • JavaScript
 
-🔗 [Visit Men Betak](https://al-ayat-guide.ai.studio/)
+🔗 [**Visit Men Betak**](https://al-ayat-guide.ai.studio/)
 
 ---
 
@@ -69,13 +69,13 @@ More projects coming soon... 🚀
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Mira&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Mira&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Mira&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Mira&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Mostafa-Mira&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Mostafa-Mira&theme=tokyonight&hide_border=true"/>
 
 </div>
 
