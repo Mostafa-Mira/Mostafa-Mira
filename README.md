@@ -19,7 +19,7 @@ Currently learning and improving my skills in **C#, SQL Server, and Web Developm
 
 ## 👨‍💻 About Me
 
-I am a **Junior Full-Stack Developer** 🧑‍💻 from **Egypt 🇪🇬**.
+I am a **Junior Full-Stack Developer** https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966 from **Egypt 🇪🇬**.
 
 * 🔭 Currently learning and improving my **C# & .NET** skills.
 * 🌱 Learning **SQL Server and Web Development**.
