@@ -19,7 +19,9 @@ Currently learning and improving my skills in **C#, SQL Server, and Web Developm
 
 ## 👨‍💻 About Me
 
-I am a **Junior Full-Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" align="center" alt="Animation" /> from **Egypt 🇪🇬**.
+I am a **Junior Full-Stack Developer** <p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20%" alt="Animation">
+</p> from **Egypt 🇪🇬**.
 
 * 🔭 Currently learning and improving my **C# & .NET** skills.
 * 🌱 Learning **SQL Server and Web Development**.
